@@ -59,5 +59,4 @@ PaySim is a synthetic mobile money transaction dataset modeled on real M-Pesa lo
 
 **Vincent Kiptoo**
 
-[LinkedIn](https://www.linkedin.com/in/vincentkiptoo/) | 
 [GitHub](https://github.com/Vincent-kiptoo)
