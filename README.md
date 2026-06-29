@@ -58,8 +58,6 @@ PaySim is a synthetic mobile money transaction dataset modeled on real M-Pesa lo
 ### Author
 
 **Vincent Kiptoo**
-
-- Background: Criminology and Penology degree + ALX Data Analytics certification
 - Focus: Bridging behavioral criminology with transaction data analysis for fraud detection
 
 [LinkedIn](https://www.linkedin.com/in/vincentkiptoo/) | 
